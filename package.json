@@ -2,5 +2,8 @@
   "dependencies": {
     "@supercharge/request-ip": "^1.1.2",
     "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node app.js"
   }
 }
